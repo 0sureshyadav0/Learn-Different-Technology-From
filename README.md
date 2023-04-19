@@ -1,7 +1,7 @@
 # Learn-Different-Technology-From
 Links to different technology
 
-## HTML - html.com
+### HTML - html.com
 ## CSS - web.dev/learn/css  | csstricks.com
 ## JavaScript - javascript.info
 ## React - reactplay.io
